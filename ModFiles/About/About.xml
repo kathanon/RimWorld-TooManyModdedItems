@@ -1,0 +1,22 @@
+<ModMetaData>
+	<name>Too Many Modded Items! (beta)</name>
+	<author>kathanon</author>
+	<packageId>kathanon.TooManyModdedItems</packageId>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<description>Adds an in-game catalog of all items and what you need to make them (research, workbench &amp; ingredients). The catalog is toggled with the questionmark icon in the bottom right.</description>
+	<url>https://github.com/kathanon/RimWorld-TooManyModdedItems</url>
+
+	<modDependencies>
+		<li>
+			<packageId>UnlimitedHugs.HugsLib</packageId>
+			<displayName>HugsLib</displayName>
+			<downloadUrl>https://github.com/UnlimitedHugs/RimworldHugsLib/releases/latest</downloadUrl>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/818773962</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>UnlimitedHugs.HugsLib</li>
+	</loadAfter>
+</ModMetaData>
